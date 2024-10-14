@@ -39,6 +39,10 @@ Then activate it:
 
     $ source venv/bin/activate
 
+Install the requirements:
+
+pip install numpy
+
 Next, install the requirements:
 
     $ pip install -r requirements.txt
